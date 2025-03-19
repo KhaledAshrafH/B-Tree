@@ -1,6 +1,6 @@
 # B-Tree Implementation in C++
 
-This contains a C++ code that implements a B-Tree data structure. A B-Tree is a self-balancing tree that can store and retrieve data efficiently. It is commonly used in databases and file systems.
+This contains a C++ code that implements a B-Tree data structure. A B-Tree is a self-balancing tree that can store and retrieve data efficiently. It is commonly used in databases and file systems
 
 ## Motivation
 
